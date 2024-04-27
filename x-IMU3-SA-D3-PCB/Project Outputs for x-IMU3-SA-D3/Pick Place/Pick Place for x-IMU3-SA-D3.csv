@@ -4,8 +4,8 @@ C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-D3\x-IMU3-SA-D3-PCB\Project Outputs fo
 ========================================================================================================================
 File Design Information:
 
-Date:       06/12/23
-Time:       16:14
+Date:       27/04/24
+Time:       17:58
 Revision:   c79e6d87a153acc2c508e7c1cdc89af2aa1c0ec0
 Variant:    No variations
 Units used: mm
@@ -14,11 +14,11 @@ Units used: mm
 "TP1","1.5000mm","16.0000mm","BottomLayer","90","Test Point"
 "TP3","1.5000mm","18.5000mm","BottomLayer","90","Test Point"
 "TP2","1.5000mm","13.5000mm","BottomLayer","90","Test Point"
-"R4","9.5000mm","15.2500mm","BottomLayer","180","180R"
-"R3","9.5000mm","13.2500mm","BottomLayer","180","180R"
-"R2","3.5000mm","13.2500mm","BottomLayer","0","180R"
+"R4","9.5000mm","15.2500mm","BottomLayer","180","470R"
+"R3","9.5000mm","13.2500mm","BottomLayer","180","470R"
+"R2","3.5000mm","13.2500mm","BottomLayer","0","470R"
 "J2","7.0800mm","11.5000mm","TopLayer","90","Molex 90121-0765"
-"R1","3.5000mm","15.2500mm","BottomLayer","0","180R"
+"R1","3.5000mm","15.2500mm","BottomLayer","0","470R"
 "J1","6.5000mm","17.0000mm","TopLayer","180","SP-3533-02"
 "C1","9.5000mm","14.2500mm","BottomLayer","180","100nF"
 "U1","6.5000mm","14.2500mm","BottomLayer","90","PIC10F322-I/OT"
